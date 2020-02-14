@@ -1,5 +1,4 @@
 # Python in Series
-##################
 
 Interactively learn Python.
 
